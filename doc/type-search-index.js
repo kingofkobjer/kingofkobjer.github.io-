@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"view","l":"Application"},{"p":"model","l":"Board"},{"p":"model","l":"Matrix"},{"p":"model","l":"Solver"},{"p":"model","l":"Sudoku"},{"p":"sudoku","l":"SudokuPuzzles"},{"p":"test","l":"TestSudoku"},{"p":"view","l":"View"}]
